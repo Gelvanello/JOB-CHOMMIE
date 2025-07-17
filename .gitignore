@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Distribution/build directories
+dist/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Database files
+*.db
+
+# OS files
+.DS_Store
+
