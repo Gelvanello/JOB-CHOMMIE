@@ -2,12 +2,16 @@
   "dependencies": {
     "@react-three/drei": "^10.5.1",
     "@react-three/fiber": "^9.2.0",
+    "@types/node": "^24.0.14",
+    "@types/three": "^0.178.1",
     "autoprefixer": "^10.4.21",
     "framer-motion": "^12.23.6",
     "gsap": "^3.13.0",
     "lottie-react": "^2.4.1",
     "postcss": "^8.5.6",
+    "recharts": "^3.1.0",
     "tailwindcss": "^4.1.11",
-    "three": "^0.178.0"
+    "three": "^0.178.0",
+    "tsparticles": "^3.8.1"
   }
 }
